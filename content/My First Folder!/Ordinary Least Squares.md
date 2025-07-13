@@ -6,7 +6,7 @@ $S = \{(x_n, y_n) \mid n \in \{1, 2, \ldots, N\}\}$
 
 In an ideal world, there would be a line of the form $y = mx$ where we could align each point. As we are well aware, this is rarely the case.
 
-We introduce, ordinary least squares. 
+To solve this problem, we introduce ordinary least squares!
 
 Note that our linear equation will have two parameters. To avoid confusion with letter names, we will label our parameters $\beta_0$ and $\beta_1$  which denote our y-intercept and slope respectively. 
 
